@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.anel{
+  border: 2.5px solid rgba(89, 146, 143, 0.644);
+  border-radius: 10px;
+  width: 200px;
+  height: 320px;
+  display: inline-block;
+  padding: 5px;
+  margin: 20px 20px; 
+}
+
+#EncarteDigital .anelgrande{
+  border: 2.5px solid rgba(89, 146, 143, 0.644);
+  border-radius: 10px;
+  width: 87%;
+  height: 320px;
+  display: inline-block;
+  padding: 5px;
+  margin: 20px 20px;
+}
+
+img{
+  width: 185px;
+  height: 220px;
+  border-radius: 1px;
+}
+
+#imgrande{
+  align-self: center;
+  width: 100%;
+  height: 305px;
+}
+
+span{
+  color: rgb(89, 146, 143);
+}
+
+#p1{
+  color: rgb(12, 146, 139);
+}
+
+h1{
+  color: rgb(86, 201, 195);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+  color: rgba(90, 201, 195, 0.644);
+  font-family: monospace;
+}
+
+#creditos{
+  color: rgb(89, 99, 99);
+}
